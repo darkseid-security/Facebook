@@ -1,0 +1,188 @@
+
+#logo {
+margin-top: 50px;
+padding-bottom: 5px;
+}
+
+input {
+display: block;
+margin-top: 10px;
+width: 400px;
+height: 50px;
+color: #1c1e21;
+border-radius: 5px;
+border: 1px solid #ccd0d5;
+padding-left: 15px;
+font-size: 17px;
+}
+
+input:focus {
+outline: none;
+
+}
+
+#login {
+margin-top: 15px;
+background-color: #1877f2;
+border: none;
+color: white;
+width: 417px;
+height: 50px;
+border-radius: 5px;
+margin-bottom: 20px;
+cursor: pointer;
+font-size: 20px;
+font-family: inherit;
+font-weight: bold;
+}
+
+#signup {
+margin-top: 10px;
+background-color: #03c03c;
+border: none;
+color: white;
+width: 250px;
+height: 50px;
+border-radius: 5px;
+margin-bottom: 20px;
+cursor: pointer;
+font-size: 18px;
+font-family: inherit;
+font-weight: bold;
+
+}
+
+#title {
+padding-bottom: 10px;
+font-family: inherit;
+padding-top: 30px;
+font-size: 18px;
+
+}
+
+.grey {
+background-color: #f0f2f5;
+margin: -10px;
+
+
+}
+
+#links {
+cursor: pointer;
+font-family: inherit;
+font-size: 17px;
+font-weight: 500;
+color: #1877f2;
+}
+
+#links:hover {
+text-decoration: underline;
+}
+
+.login {
+border: white;
+background: #fff;
+box-shadow: 0 1px 4px rgba(0,0,0,.4);
+width: 440px;
+border-radius: 5px;
+}
+
+#or {
+padding-top: 10px;
+color: grey;
+font-size: 15px;
+}
+
+br {
+
+
+}
+
+#stack {
+display: inline;
+
+}
+
+li {
+display: inline;
+color: #8a8d91;
+font-family: inherit;
+font-size: 12px;
+padding-right: 5px;
+
+}
+
+.items {
+color: #8a8d91;
+
+}
+
+#meta {
+margin-top: 60px;
+color: #8a8d91;
+font-family: inherit;
+font-size: 14px;
+}
+
+a:hover {
+text-decoration: underline;
+cursor: pointer;
+
+}
+
+#english {
+color: #737373;
+font-size: 14px;
+font-family: inherit;
+display: inline;
+}
+
+.lang {
+margin-top: 80px;
+}
+
+#box {
+color: #8a8d91;
+
+}
+
+#underline {
+border-bottom: 1px solid #dddfe2;
+width: 40%;
+
+}
+
+a {
+text-decoration: none;
+color: #8a8d91;
+font-size: 14px;
+}
+
+#bad {
+padding-bottom: 10px;
+background: red;
+color: white;
+font-family: inherit;
+font-size: 18px;
+font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif !important;
+font-weight: bold;
+border: 1px solid red;
+border-radius: 2px;
+padding-top: 15px;
+height: 25px;
+}
+
+#good {
+padding-bottom: 10px;
+background: #03c03c;
+color: white;
+font-family: inherit;
+font-size: 18px;
+font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif !important;
+font-weight: bold;
+border: 1px solid #03c03c;
+border-radius: 2px;
+padding-top: 15px;
+height: 25px;
+}
+

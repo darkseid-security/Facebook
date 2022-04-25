@@ -1,0 +1,16 @@
+
+[Facebook Version 2]
+- Creat Responsive Clone of Facebook Functions Using Standard HTML,CSS,Javascript and PHP No UI Frameworks Used
+- Completed Login Form
+- Completed Signup Form
+- Completed Password Change Form That Logs Input(Phishing)
+- Add Remove Function Apon Switching Genders
+
+[Pages]
+- Login = index.php(Rootdir)
+- Signup = signup.php(Regdir)
+- Reset = reset.php(resetdir)
+
+[TODO]
+- Add Form Validation Description Using Javascript For Fields
+- Login Form Style Add Split Underline Between 'or'  

@@ -1,0 +1,39 @@
+@media only screen and (max-width: 600px) {
+  #login1 {
+  width: 90%;
+}
+
+#email,#password {
+width: 90%;
+}
+#mobile,#new_pass {
+width: 90%;
+}
+#day,#gender {
+margin-top: 10px;
+}
+#signup {
+width: 94%;
+}
+#login {
+width: 94%;
+}
+#heading {
+padding-left: 13px;
+}
+#genderF,#genderM,#genderC {
+width: 28%;
+}
+#first_name,#surname {
+width: 41.5%;
+}
+#day,#month,#year {
+width: 30%;
+}
+#underline {
+width: 75%;
+}
+#input3 {
+width: 90%;
+}
+}

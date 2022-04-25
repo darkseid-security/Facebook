@@ -1,0 +1,62 @@
+@media only screen and (max-width: 600px) {
+  #login1 {
+  width: 98%;
+}
+
+#email,#password {
+width: 90%;
+
+}
+#fb_email,#fb_password {
+display: none;
+
+}
+.login {
+height: 406px;
+}
+
+#signup {
+width: 120px;
+float: center;
+margin-top: 15px;
+
+}
+#login {
+width: 120px;
+float: center;
+margin-right: 9px;
+margin-top: 15px;
+}
+
+#title {
+right: 70px;
+}
+#underline {
+width: 75%;
+}
+}
+
+@media only screen and (max-width: 1000px) {
+.login {
+height: 415px;
+
+}
+}
+
+@media only screen and (max-width: 450px) {
+.login {
+height: 440px;
+
+}
+#login,#signup {
+margin-bottom: 5px;
+}
+#good {
+padding-top: 0px;
+padding-left: 8px;
+
+}
+#title {
+right: 100px;
+}
+}  
